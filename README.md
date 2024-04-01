@@ -10,7 +10,7 @@
 </head>
 <body>
    <header>
-    <h1>Vai ser uma imagem aqui</h1>
+    <img class="cabecalho imagem" src= "https://s2-autoesporte.glbimg.com/60nN_HcELu8vZR5cU4zPwFhjOoU=/0x0:1079x743/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2023/4/X/KBUANHSba3nEgm2x3FDQ/ferrari-sf90-stradale-max-verstappen.jpg" alt="ferrari">
 <ul>
     <li>Escola</li>
     <li>Estudante</li>
